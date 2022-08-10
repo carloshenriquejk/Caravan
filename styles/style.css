@@ -1,0 +1,32 @@
+body{
+
+  padding-top: 75px;
+}
+.box-shadow{
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.05),
+              0 4px 8px 0 rgba(0,0,0,.05);
+}
+#home-qoute{
+  background: url(../img/bg-quote.jpg);
+
+}
+.lista-plano li  + li{
+  padding: 1rem;
+
+}
+.lista-plano li {
+  padding: 1rem;
+  border-bottom: 1px solid rgba(0,0,0,.2);
+}
+
+@media(max-width: 767px){
+  #home-qoute .display-4{
+    font-size: 2.5rem;
+  }
+  body{
+    padding-top:0px
+  }
+  .fixed-top{
+    position:relative;
+  }
+}
