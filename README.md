@@ -1,6 +1,6 @@
 # Caravan ✈️
 
-[![Caravan](https://imgur.com/lCewlF5.png "Clique para acessar o projeto")](https://bikcra.netlify.app "Clique para acessar o projeto")   
+[![Caravan](https://imgur.com/lCewlF5.png "Clique para acessar o projeto")](https://carav.netlify.app "Clique para acessar o projeto")   
 
 
 ## 📖 Sobre   
@@ -14,7 +14,7 @@ O projeto **Caravan** foi desenvolvido durante o curso de **HTML e CSS Completo*
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft]( https://imgur.com/sr0qvV2.png "Clique para acessar o projeto")](https://carav.netlify.app "Clique para acessar o projeto")   
+[![Caravan]( https://imgur.com/sr0qvV2.png "Clique para acessar o projeto")](https://carav.netlify.app/inscricao.html "Clique para acessar o projeto")   
 
 Você pode acessar o projeto clicando [aqui](https://carav.netlify.app).
 ---
