@@ -4,13 +4,14 @@
 
 
 ## 📖 Sobre   
-O projeto **Caravan** foi desenvolvido durante o curso de **HTML e CSS Completo** da **[Origamid](https://www.origamid.com/)**. Durante o curso, colocando todos os conceitos em prática desenvolvendo o **código do site** da **Caravan** onde se encontra vários planos para viagens atendendo todos os criterios básicos para um site , onde desenvolvemos conceitos como **HTML semântico**, **otimização** de imagens e arquivos CSS.  
+O projeto **Caravan** foi desenvolvido durante o curso de **Bootstrap** da **[Origamid](https://www.origamid.com/)**. Durante o curso, colocando todos os conceitos em prática desenvolvendo o **código do site** da **Caravan** onde se encontra vários planos para viagens atendendo todos os criterios básicos para um site , onde desenvolvemos conceitos como **HTML semântico**, **otimização** de imagens e arquivos CSS com Bootstrap.  
 
 ---
 
 ## 🚀 Tecnologias e ferramentas utilizadas
 - **HTML5**
 - **CSS3**
+-**Bootstrap 4**
 ---
 
 ## 🖥️ Demonstração
